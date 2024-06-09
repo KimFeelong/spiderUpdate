@@ -11,10 +11,12 @@
 ## 스마트한 코인 트레이더의 필수 아이템
 ### 비트겟, OKX, 바이비트, 빙엑스를 지원합니다.
 
-## 1. 설치방법
+## 수동이 다운로드
 ### Window (x64) 버전  
 아래 다운로드를 클릭하여 설치해주세요.  
+  
 [수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.0/Spider-Setup-1.0.0.exe)
+  
 
 ### Mac 버전  
 맥버전은 애플에서 심사중입니다. 조금 기다리셔야 합니다.
