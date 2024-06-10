@@ -17,6 +17,7 @@
 [수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.2/Spider.Setup.1.0.2.exe)
 
 ### Mac 버전
-아래 다운로드를 클릭하여 설치해주세요.
+아래 다운로드를 클릭하여 설치해주세요.  
+  
 [수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.2/Spider-1.0.2-arm64.dmg)
 
