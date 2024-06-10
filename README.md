@@ -8,13 +8,15 @@
 #### 2. 실시간 뉴스 추적 알림
 #### 3. 실시간 고래들의 체결정보와 지갑 이동 추적
 #### 4. GPT를 통해 번역된 정제된 비트코인 관점
+#### 5. 노 랜섬웨어 노 바이러스. 애플 개발자 공증
   
 ## 수동이 다운로드
 ### Window (x64) 버전  
 아래 다운로드를 클릭하여 설치해주세요.  
   
-[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.0/Spider-Setup-1.0.0.exe)
-  
+[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.2/Spider.Setup.1.0.2.exe)
 
-### Mac 버전  
-맥버전은 애플에서 심사중입니다. 조금 기다리셔야 합니다.
+### Mac 버전
+아래 다운로드를 클릭하여 설치해주세요.
+[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.2/Spider-1.0.2-arm64.dmg)
+
