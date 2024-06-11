@@ -10,14 +10,14 @@
 #### 4. GPT를 통해 번역된 정제된 비트코인 관점
 #### 5. 노 랜섬웨어 노 바이러스. 애플 개발자 공증
   
-## 수동이 다운로드 (v.1.0.3)
+## 수동이 다운로드 (v.1.0.4)
 ### Window (x64) 버전  
 아래 다운로드를 클릭하여 설치해주세요.  
   
-[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.3/Spider-Setup-1.0.3.exe)
+[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.4/Spider-Setup-1.0.4.exe)
 
 ### Mac 버전
 아래 다운로드를 클릭하여 설치해주세요.  
   
-[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.3/Spider-1.0.3-arm64.dmg)
+[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.4/Spider-1.0.4-arm64.dmg)
 
