@@ -12,14 +12,14 @@
 #### - 개인정보 해킹 없습니다! 애플 개발자 인증받아 배포되는 엄격한 프로그램이에요.
 #### - 너무 걱정되시는 분들은 안쓰시는게 좋습니다! 걱정하시는 분들이 계시길래;;;
   
-## 수동이 다운로드 (v.1.0.6)
+## 수동이 다운로드 (v.1.0.7)
 ### Window (x64) 버전  
 아래 다운로드를 클릭하여 설치해주세요.  
   
-[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.6/Spider-Setup-1.0.6.exe)
+[수동이 다운로드](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.7/Spider-Setup-1.0.7.exe)
 
 ### Mac 버전
 아래 다운로드를 클릭하여 설치해주세요.  
   
-[수동이 다운로드 인텔](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.6/Spider-1.0.6-mac.zip)
-[수동이 다운로드 실리콘](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.6/Spider-1.0.6-arm64-mac.zip)
+[수동이 다운로드 인텔](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.7/Spider-1.0.7.dmg)
+[수동이 다운로드 실리콘](https://github.com/KimFeelong/spiderUpdate/releases/download/1.0.7/Spider-1.0.7-arm64.dmg)
